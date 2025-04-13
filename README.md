@@ -25,7 +25,7 @@ This project is a **machine learning/statistical modeling platform** designed to
   - Provides real-time feature attribution feedback for experimental scenarios
 
 
-![Alt Text](./public/Screenshot (2).png)
+![Alt Text](./public/Screenshot(2).png)
 ![Alt Text](./public/Screenshot (2).png)
 
 ![Alt Text](./public/Screenshot (3).png)
