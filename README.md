@@ -26,6 +26,8 @@ This project is a **machine learning/statistical modeling platform** designed to
 
 
 ![Alt Text](./public/Screenshot (2).png)
+![Alt Text](./public/Screenshot (2).png)
+
 ![Alt Text](./public/Screenshot (3).png)
 ![Alt Text](./public/Screenshot (4).png)
 ![Alt Text](./public/Screenshot (5).png)
